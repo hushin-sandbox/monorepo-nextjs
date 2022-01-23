@@ -8,7 +8,7 @@
     // "mgmcdermott.vscode-language-babel",
     // "wix.vscode-import-cost",
     "pflannery.vscode-versionlens",
-    "EditorConfig.EditorConfig",
+    "EditorConfig.EditorConfig"
   ],
   "unwantedRecommendations": []
 }
