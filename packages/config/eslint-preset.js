@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['next', 'next/core-web-vitals', 'prettier'],
+  extends: ['eslint:recommended', 'next', 'next/core-web-vitals', 'prettier'],
   settings: {
     next: {
       rootDir: ['apps/*/', 'packages/*/'],
