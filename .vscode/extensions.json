@@ -1,13 +1,14 @@
 {
   "recommendations": [
     "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
     "eamodio.gitlens",
     "mhutchie.git-graph",
     "mikestead.dotenv",
     // "mgmcdermott.vscode-language-babel",
     // "wix.vscode-import-cost",
     "pflannery.vscode-versionlens",
-    "editorconfig.editorconfig",
+    "EditorConfig.EditorConfig",
   ],
   "unwantedRecommendations": []
 }
