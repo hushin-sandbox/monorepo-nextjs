@@ -1,5 +1,13 @@
 module.exports = {
-  extends: ['eslint:recommended', 'next', 'next/core-web-vitals', 'prettier'],
+  extends: [
+    'eslint:recommended',
+    'standard',
+    'standard-jsx',
+    'standard-react',
+    'next',
+    'next/core-web-vitals',
+    'prettier',
+  ],
   settings: {
     next: {
       rootDir: ['apps/*/', 'packages/*/'],
