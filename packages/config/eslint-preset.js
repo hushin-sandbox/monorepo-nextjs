@@ -4,6 +4,7 @@ module.exports = {
     'standard',
     'standard-jsx',
     'standard-react',
+    'plugin:import/recommended',
     'next',
     'next/core-web-vitals',
     'prettier',
@@ -23,6 +24,7 @@ module.exports = {
       extends: [
         'plugin:@typescript-eslint/recommended',
         'plugin:@typescript-eslint/recommended-requiring-type-checking',
+        'plugin:import/typescript',
         'prettier',
       ],
     },
